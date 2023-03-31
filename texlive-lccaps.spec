@@ -1,6 +1,6 @@
 Name:		texlive-lccaps
 Version:	46432
-Release:	1
+Release:	2
 Summary:	Lowercased (spaced) small capitals
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lccaps
