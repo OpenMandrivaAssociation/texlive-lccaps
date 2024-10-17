@@ -3,7 +3,7 @@ Version:	46432
 Release:	2
 Summary:	Lowercased (spaced) small capitals
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lccaps
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lccaps
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lccaps.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lccaps.doc.r%{version}.tar.xz
